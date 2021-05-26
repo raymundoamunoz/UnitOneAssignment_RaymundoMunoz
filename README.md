@@ -27,3 +27,11 @@ In one of their blogs, Square reports that there has been an increase in cashles
 
 Square has a lot of potential to keep growing. Their ability to provide POS solutions, as well as personal banking solution opens the world for them to grow. Now with their ability to send cryptocurrency from one account to another, I would recommend them to expand app support to other countries, facilitating sending bitcoin to other countries. Adding blockchain technology to these solutions would be ideal to continue growth. 
 
+https://csimarket.com/stocks/compet_glance.php?code=SQ
+https://stackshare.io/square/square
+https://en.wikipedia.org/wiki/Square,_Inc.
+https://squareup.com/us/en/about
+https://finance.yahoo.com/
+https://developer.squareup.com/blog/the-state-of-ruby-3-typing
+https://developer.squareup.com/blog/the-value-in-early-product-analytics
+https://developer.squareup.com/blog/introducing-pysurvival
